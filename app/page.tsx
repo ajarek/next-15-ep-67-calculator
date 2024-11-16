@@ -3,7 +3,7 @@ import Button from "@/components/Button"
 export default function Home() {
   return (
     <main className='min-h-screen flex flex-col items-center justify-center bg-slate-900 '>
-      <div className="flex flex-col gap-3 px-3 pt-3 pb-6 bg-black rounded-xl shadow-xl shadow-slate-800 ">
+      <div className="flex flex-col gap-3 px-4 pt-4 pb-6 bg-black rounded-xl shadow-xl shadow-slate-800 ">
         <div className='flex justify-end text-white text-4xl font-light p-2 border border-blue-400 rounded-lg'>
           0
         </div>
