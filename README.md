@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 
-![Zrzut ekranu 2024-11-18 002157](https://github.com/user-attachments/assets/bdcd766b-a31a-4987-92ca-60a5779da465)
+![Zrzut ekranu 2024-11-18 002157](https://github.com/user-attachments/assets/573a7289-e59c-4a19-9d07-d86b5a8f4a4b)
+
 
 
 ## Getting Started
